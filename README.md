@@ -9,7 +9,7 @@
 
 <br />
 
-### 📫 How to reach me:
+# 📫 How to reach me:
 
 <p align="center">
   <a href="https://www.facebook.com/sonn2012/" alt="Facebook">
