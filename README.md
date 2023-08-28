@@ -10,13 +10,13 @@
 <br>
 <br>
 
-### :woman_technologist: About me :sparkles:
+### :woman_technologist: About me
 
 - :telescope: I’m currently a Information System junior at [University of Information Technology - Vietnam National University](https://www.uit.edu.vn/)
 
 <br />
 
-### :woman_technologist: 📫 How to reach me: :sparkles:
+### 📫 How to reach me:
 <p align="center">
   <a href="https://www.facebook.com/sonn2012/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
