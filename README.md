@@ -1,7 +1,10 @@
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Thanh Son</h1>
 
-
+<br>
+<br>
+<br>
+<br>
 ### :woman_technologist: About me :sparkles:
 
 - :telescope: I’m currently a Computer Science junior at [University of Information Technology - Vietnam National University](https://www.uit.edu.vn/)
