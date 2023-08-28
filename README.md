@@ -16,8 +16,7 @@
 
 <br />
 
-📫 How to reach me:
-
+### :woman_technologist: 📫 How to reach me: :sparkles:
 <p align="center">
   <a href="https://www.facebook.com/sonn2012/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
